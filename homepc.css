@@ -1,9 +1,78 @@
 body{
-user-select: none;
+	user-select: none;
+}
+a{
+	display: inline-block;
+	margin-left: 30px;
+	color: #000000;
+	text-decoration: none;
+
+}
+.firstdiv{
+	
 }
 .mainimg{
-
+	width: 250PX;
+	height: 250px;
+	position: absolute;
+	margin-left: 1150px;
+	background-image: url(Untitled-1.jpg);
 }
 .naderalhamwi{
-
+	
+}
+.contact{
+	
+}
+.seconddiv{
+	
+}
+.kortommig{
+	display: inline-block;
+	margin-left: 50px;
+	background-color: red;
+	width: 300px;
+	height: 200px;
+}
+.Presoninforamtion{
+	display: inline-block;
+	margin-left: 100px;
+	background-color: red;
+	width: 300px;
+	height: 200px;
+}
+.Arbetslivsafarnhet{
+	margin-left: 50px;
+	background-color: red;
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+}
+.Utbildning{
+	margin-left: 100px;
+	background-color: red;
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+}
+.Bilder{
+	margin-left: 100px;
+	background-color: red;
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+}
+.referenser{
+	margin-left: 50px;
+	background-color: red;
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+}
+.Minacocialamedia{
+	margin-left: 100px;
+	background-color: red;
+	display: inline-block;
+	width: 300px;
+	height: 200px;
 }
